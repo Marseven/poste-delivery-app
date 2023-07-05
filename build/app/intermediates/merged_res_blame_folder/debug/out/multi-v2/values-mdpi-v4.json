@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/richardaristidemebodo/Development/poste-delivery-app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-mdpi-v4/values-mdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/richardaristidemebodo/.gradle/caches/transforms-3/d0a2d639273dc7919bce3c596a37d3fd/transformed/jetified-ui_legacy-9.2.1/res/values-mdpi-v4/values-mdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,195",
+                        "endLines": "5,9",
+                        "endColumns": "12,12",
+                        "endOffsets": "190,336"
+                    },
+                    "to": {
+                        "startLines": "16,20",
+                        "startColumns": "4,4",
+                        "startOffsets": "929,1069",
+                        "endLines": "19,23",
+                        "endColumns": "12,12",
+                        "endOffsets": "1064,1210"
+                    }
+                },
+                {
+                    "source": "/Users/richardaristidemebodo/.gradle/caches/transforms-3/6e00923073381c59b69642baf2c21d09/transformed/jetified-carddrawer-2.18.0/res/values-mdpi-v4/values-mdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,116,171,227,280,338,420,501,559,614,670,727,800",
+                        "endColumns": "60,54,55,52,57,81,80,57,54,55,56,72,71",
+                        "endOffsets": "111,166,222,275,333,415,496,554,609,665,722,795,867"
+                    }
+                },
+                {
+                    "source": "/Users/richardaristidemebodo/.gradle/caches/transforms-3/b791a3330312f68f04ec50633483c6df/transformed/jetified-payments-core-20.4.0/res/values-mdpi-v4/values-mdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    },
+                    "to": {
+                        "startLines": "15",
+                        "startColumns": "4",
+                        "startOffsets": "872",
+                        "endColumns": "56",
+                        "endOffsets": "924"
+                    }
+                }
+            ]
+        }
+    ]
+}

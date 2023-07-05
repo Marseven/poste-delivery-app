@@ -1,0 +1,39 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/richardaristidemebodo/Development/poste-delivery-app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml",
+            "map": [
+                {
+                    "source": "/Users/richardaristidemebodo/.gradle/caches/transforms-3/29ff9920d445a0256cc05457eb9e9a6d/transformed/appcompat-1.5.1/res/values-v26/values-v26.xml",
+                    "from": {
+                        "startLines": "2,3,4,8,12,16",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,130,217,381,557,796",
+                        "endLines": "2,3,7,11,15,16",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "125,212,376,552,791,884"
+                    },
+                    "to": {
+                        "startLines": "47,48,49,53,57,61",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "2108,2183,2270,2434,2610,2849",
+                        "endLines": "47,48,52,56,60,61",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "2178,2265,2429,2605,2844,2937"
+                    }
+                },
+                {
+                    "source": "/Users/richardaristidemebodo/.gradle/caches/transforms-3/1ec7036f0dec5773f91f45219865a712/transformed/jetified-components-3.36.1/res/values-v26/values-v26.xml",
+                    "from": {
+                        "startLines": "2,3,4,8,12,16,20,23,26,27,31,35,39,43",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,81,112,309,506,703,902,1020,1072,1104,1304,1504,1704,1906",
+                        "endLines": "2,3,7,11,15,19,22,25,26,30,34,38,42,46",
+                        "endColumns": "25,30,12,12,12,12,12,12,31,12,12,12,12,12",
+                        "endOffsets": "76,107,304,501,698,897,1015,1067,1099,1299,1499,1699,1901,2103"
+                    }
+                }
+            ]
+        }
+    ]
+}

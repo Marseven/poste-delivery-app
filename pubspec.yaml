@@ -1,0 +1,150 @@
+name: mighty_delivery
+description: A new Flutter project.
+
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.15.1 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # CONNECTIVITY
+  url_launcher: ^6.1.9
+  package_info_plus: ^3.0.3
+  intl: ^0.18.0
+  html: ^0.15.1
+  http: ^0.13.5
+  connectivity_plus: ^3.0.3
+
+  # STATE MANAGEMENT
+  mobx: ^2.1.4
+  flutter_mobx: ^2.0.6+5
+
+  # Base
+  nb_utils: ^5.0.5
+  google_fonts: ^4.0.3
+  animated_bottom_navigation_bar: ^1.1.0+1
+
+  # TOOLS
+  cupertino_icons: ^1.0.5
+  lottie: ^2.2.0
+  timeline_tile: ^2.0.0
+  country_code_picker: ^2.0.2
+
+  # Dotted Line
+  dotted_line: ^3.1.0
+
+  # Payment gateway
+  flutter_stripe: ^3.0.0
+  razorpay_flutter: ^1.3.4
+  flutterwave_standard: ^1.0.7
+  paytm: ^3.0.1
+  flutter_paystack: ^1.0.7
+  flutter_braintree: ^3.0.0
+  mercado_pago_mobile_checkout: ^0.2.0-dev.3
+  flutter_paytabs_bridge: ^2.3.3
+  my_fatoorah: ^3.2.0
+
+  # IMAGES
+  image_picker: ^0.8.6+1
+  file_picker: ^5.2.5
+  cached_network_image: ^3.2.3
+  syncfusion_flutter_signaturepad: ^20.4.50
+  screenshot: ^1.3.0
+  date_time_picker: ^2.1.0
+
+  # MAP
+  geolocator: ^9.0.2
+  google_maps_flutter: ^2.2.3
+  flutter_polyline_points: ^1.0.0
+  maps_launcher: ^2.2.0
+  google_maps_place_picker_mb: ^3.0.1
+
+  # PUSH NOTIFICATION
+  onesignal_flutter: ^3.5.0
+
+  #OTP TEXTFIELD
+  otp_text_field: ^1.1.3
+
+  #FIREBASE
+  firebase_crashlytics: ^3.0.12
+  firebase_core: ^1.24.0
+  firebase_auth: ^4.2.6
+  firebase_storage: ^11.0.11
+  firebase_database: ^10.0.11
+  paginate_firestore: ^1.0.3+1
+  cloud_firestore: ^4.4.0
+
+  # DOWNLOAD INVOICE PDF
+  pdf: ^3.9.0
+  path_provider: ^2.0.12
+  open_file: ^3.2.1
+  printing:
+  image:
+
+  # READ MORE LESS
+  readmore: ^2.2.0
+
+  # Social Login
+  google_sign_in: ^5.4.4
+
+  flutter_localizations:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner: ^2.3.3
+  mobx_codegen: ^2.1.1
+  # The "flutter_lints" package below contains a set of recommended lints to
+  # encourage good coding practices. The lint set provided by the package is
+  # activated in the `analysis_options.yaml` file located at the root of your
+  # package. See that file for information about deactivating specific lint
+  # rules and activating additional ones.
+  flutter_lints: ^2.0.1
+  flutter_native_splash: ^2.1.6
+  change_app_package_name: ^1.0.0
+  flutter_launcher_icons:
+
+dependency_overrides:
+  firebase_core_platform_interface: 4.5.1
+  freezed_annotation: ^2.2.0
+  firebase_crashlytics: ^2.8.13
+  firebase_auth: ^3.11.2
+  firebase_storage: ^10.3.11
+  firebase_database: ^9.1.7
+  paginate_firestore: ^1.0.3+1
+  cloud_firestore: ^3.5.1
+  google_maps_place_picker_mb: ^2.0.0-mb.22
+  file_picker: ^4.5.1
+  package_info_plus: ^1.4.2
+  intl: ^0.18.0
+  modal_bottom_sheet:
+    git:
+      url: https://github.com/danReynolds/modal_bottom_sheet.git
+      path: modal_bottom_sheet
+
+  #flutter packages pub run build_runner build --delete-conflicting-outputs
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/app_logo_primary.png"
+  web:
+    generate: false
+  windows:
+    generate: false
+
+# flutter pub run flutter_launcher_icons:main
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/icons/
+    - assets/flag/

@@ -1,0 +1,72 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/richardaristidemebodo/Development/poste-delivery-app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/Users/richardaristidemebodo/.gradle/caches/transforms-3/fae2977515f7462d6ea4c1ceabda36ec/transformed/material-1.7.0/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,9,12,15",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,140,239,326,427,626,839,1040",
+                        "endLines": "2,3,4,5,8,11,14,17",
+                        "endColumns": "84,98,86,100,10,10,10,10",
+                        "endOffsets": "135,234,321,422,621,834,1035,1250"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,12,15,18",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "425,510,609,696,797,996,1209,1410",
+                        "endLines": "5,6,7,8,11,14,17,20",
+                        "endColumns": "84,98,86,100,10,10,10,10",
+                        "endOffsets": "505,604,691,792,991,1204,1405,1620"
+                    }
+                },
+                {
+                    "source": "/Users/richardaristidemebodo/.gradle/caches/transforms-3/4536eb83663853e5bed70a15626d882b/transformed/media-1.0.0/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    },
+                    "to": {
+                        "startLines": "21,22,23,24",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "1625,1691,1752,1818",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "1686,1747,1813,1880"
+                    }
+                },
+                {
+                    "source": "/Users/richardaristidemebodo/.gradle/caches/transforms-3/29ff9920d445a0256cc05457eb9e9a6d/transformed/appcompat-1.5.1/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "133,290",
+                        "endColumns": "156,134",
+                        "endOffsets": "285,420"
+                    }
+                },
+                {
+                    "source": "/Users/richardaristidemebodo/.gradle/caches/transforms-3/d62efb5820695412a5f4f51b2cd65be4/transformed/jetified-checkout-4.53.2/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "77",
+                        "endOffsets": "128"
+                    }
+                }
+            ]
+        }
+    ]
+}

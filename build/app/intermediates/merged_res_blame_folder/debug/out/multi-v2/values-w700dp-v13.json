@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/richardaristidemebodo/Development/poste-delivery-app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-w700dp-v13/values-w700dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/richardaristidemebodo/.gradle/caches/transforms-3/4de462ec6cca8a3389277fd42a75d46c/transformed/jetified-drop-in-5.2.1/res/values-w700dp-v13/values-w700dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "45",
+                        "endOffsets": "96"
+                    }
+                }
+            ]
+        }
+    ]
+}
